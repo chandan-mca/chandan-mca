@@ -60,7 +60,7 @@ Senior Software Engineer with 3 years experience designing and owning **scalable
 
 - 🔹 **Microservices Order Management System**  
   _Spring Boot, Kafka, MySQL, Docker_  
-  Designed event-driven microservices with async communication, JWT security, idempotency, and fault handling.
+  Designed event-driven microservices handling concurrent requests with Kafka, ensuring idempotency and fault tolerance, JWT security, idempotency, and fault handling.
 
 - 🔹 **User Authentication & Authorization Service**  
   _Spring Boot, JWT, Redis_  
