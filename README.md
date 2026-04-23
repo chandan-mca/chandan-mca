@@ -3,7 +3,7 @@
 ## 🎯 Primary Skills
 **Java | Spring Boot | Microservices | Distributed Systems | REST APIs | Data Structures | SQL**
 
-Senior Software Engineer with 3 years experience designing and owning **scalable, high-performance backend systems**. Strong focus on **microservices architecture, system design, performance optimization, and reliability**, aligned with product-based company standards.
+Senior Software Engineer with 4 years experience designing and owning **scalable, high-performance backend systems**. Strong focus on **microservices architecture, system design, performance optimization, and reliability**, aligned with product-based company standards.
 
 - 🔭 Currently working as **Senior Software Engineer** at **6D Technologies**
 - 🌱 Strengthening **DSA, System Design, Low-latency & High-throughput APIs**
